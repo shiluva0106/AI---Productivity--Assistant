@@ -1,2 +1,2 @@
-# AI---Productivity--Assistant
-An AI Powered workplace productivity assistant
+# AI -Powered Workplace Productivity Assistant
+Project Overview 
